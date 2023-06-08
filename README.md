@@ -1,12 +1,9 @@
-# Striver-SDE-Sheet---Challenge
-
-# Striver SDE Sheet Challenge
+# Striver SDE Sheet Challenge - Daily Code Uploads
 
 ![Striver SDE Sheet Challenge](https://github.com/username/repo/raw/main/images/striver-sde-sheet.jpg)
 
-Welcome to the Striver SDE Sheet Challenge repository! This repository is designed to provide a comprehensive set of coding problems and solutions to help you prepare for technical interviews, specifically following the **Striver SDE Sheet**.
+Welcome to the Striver SDE Sheet Challenge repository - Daily Code Uploads edition! This repository is created to document my daily coding progress and showcase my solutions to problems related to the **Striver SDE Sheet**.
 
-This repository aims to consolidate all the problems mentioned in the sheet, along with their solutions, to make it easier for you to practice and revise the concepts.
 
 ## Table of Contents
 
@@ -38,35 +35,33 @@ The repository is structured as follows:
 └── LICENSE
 ```
 
-Each major topic from the Striver SDE Sheet is represented by a directory within the repository. Inside each topic directory, you will find individual coding problems in various programming languages, along with their solutions. The problem files are named in a consistent manner, allowing you to easily identify and locate specific problems.
+Each major topic from the Striver SDE Sheet is represented by a directory within the repository. Inside each topic directory, you can create subdirectories or individual files to organize your daily code uploads. The problem files are named consistently, allowing you to easily identify and locate specific problems.
 
 ## How to Use the Repository
 
-To use this repository effectively, you can follow these steps:
+To utilize this repository for your daily code uploads, you can follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Navigate to the relevant topic directory, such as `Array`, `Linked List`, etc.
-3. Choose a problem you want to solve.
-4. Open the problem file in your preferred programming language.
-5. Read the problem statement and constraints mentioned in the file.
-6. Implement your solution in the same file or create a new file with an appropriate name.
-7. Test your solution against the provided test cases or add your custom test cases.
-8. Compare your solution with the provided solution in the file.
-9. Repeat the process for other problems in the same or different topics.
+2. Navigate to the relevant topic directory or create a new directory if needed.
+3. Create a new file for your daily code upload or select an existing problem file.
+4. Implement your solution in the file, providing clear comments and explanations.
+5. Test your solution against the provided test cases or add your custom test cases.
+6. Commit and push your changes to the repository.
+7. Repeat the process for each day's code upload, creating new files or updating existing ones.
 
-Feel free to modify and adapt the solutions according to your coding style and preferences. You can also add your own problems or solutions if you come across new variations or want to contribute to the repository.
+You can also maintain a separate file, such as `progress.md` or `log.md`, to keep track of your daily progress, challenges faced, and lessons learned during your coding journey.
 
 ## Contributing
 
-Contributions to the Striver SDE Sheet Challenge repository are always welcome! If you have new problems, better solutions, or any improvements, please feel free to submit a pull request. Make sure to follow the existing directory structure and naming conventions when adding new content.
+While this repository is primarily for your personal code uploads, you are welcome to share your solutions, improvements, or insights with others. If you encounter a problem with an existing solution, find a more optimized approach, or have any valuable additions, feel free to submit a pull request to contribute to the repository.
 
 If you encounter any issues, have suggestions, or want to discuss something related to the repository, please open an issue on the GitHub repository page.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE), which allows you to freely use and modify the code for personal or commercial purposes. However, it's always good to provide attribution if you're using this repository as a reference.
+This repository is licensed under the [MIT License](LICENSE), allowing you to freely use and modify the code for personal or commercial purposes. However, it's always good to provide attribution if you're using this repository as a reference.
 
-Happy coding and best of luck with your interview preparation!
+Keep up the great work with your daily code uploads and enjoy your coding journey!
 
 ---
-*Disclaimer
+*Disclaimer: This repository is not affiliated with or endorsed by the creator of the Striver SDE Sheet. It is solely created for personal
