@@ -59,7 +59,7 @@ If you encounter any issues, have suggestions, or want to discuss something rela
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE), allowing you to freely use and modify the code for personal or commercial purposes. However, it's always good to provide attribution if you're using this repository as a reference.
+This repository is licensed under the [MIT License](LICENSE), allowing you to freely use and modify the code for personal or commercial purposes.
 
 Keep up the great work with your daily code uploads and enjoy your coding journey!
 
