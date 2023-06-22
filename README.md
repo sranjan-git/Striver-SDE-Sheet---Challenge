@@ -37,19 +37,6 @@ The repository is structured as follows:
 
 Each major topic from the Striver SDE Sheet is represented by a directory within the repository. Inside each topic directory, you can create subdirectories or individual files to organize your daily code uploads. The problem files are named consistently, allowing you to easily identify and locate specific problems.
 
-## How to Use the Repository
-
-To utilize this repository for your daily code uploads, you can follow these steps:
-
-1. Clone or download the repository to your local machine.
-2. Navigate to the relevant topic directory or create a new directory if needed.
-3. Create a new file for your daily code upload or select an existing problem file.
-4. Implement your solution in the file, providing clear comments and explanations.
-5. Test your solution against the provided test cases or add your custom test cases.
-6. Commit and push your changes to the repository.
-7. Repeat the process for each day's code upload, creating new files or updating existing ones.
-
-You can also maintain a separate file, such as `progress.md` or `log.md`, to keep track of your daily progress, challenges faced, and lessons learned during your coding journey.
 
 ## Contributing
 
