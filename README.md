@@ -51,4 +51,4 @@ This repository is licensed under the [MIT License](LICENSE), allowing you to fr
 Keep up the great work with your daily code uploads and enjoy your coding journey!
 
 ---
-*Disclaimer: This repository is not affiliated with or endorsed by the creator of the Striver SDE Sheet. It is solely created for personal
+*Disclaimer: This repository is not affiliated with or endorsed by the creator of the Striver SDE Sheet. It is solely created for personal use.
